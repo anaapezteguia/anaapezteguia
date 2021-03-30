@@ -1,4 +1,4 @@
-![www.ana-am.es](http://www.ana-am.es/images/portadaGitHub.jpg)
+![www.ana-am.es](http://www.ana-am.es/images/portadaGitHub.png)
 
 ## Hi everyone!
 
