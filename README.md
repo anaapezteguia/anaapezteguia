@@ -15,23 +15,23 @@ I just finished the Adalab bootcamp and I want to focus on improving my knowledg
 
 ### Languages and tools
 
-<img style ="color:#E34F26" alt="html5" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
-<img style ="color:#1572B6" alt="css3" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
-<img style ="color:#CC6699" alt="sass" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
-<img style ="color:#F7DF1E" alt="javascript" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
-<img style ="color:#61DAFB" alt="react" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
-<img style ="color:#339933" alt="node-dot-js" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
-<img style ="color:#000000" alt="express" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" />
-<img style ="color:#21759B" alt="wordpress" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />
+<img align="left" style ="background-color:#E34F26" alt="html5" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img align="left" style ="background-color:#1572B6" alt="css3" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img align="left" style ="background-color:#CC6699" alt="sass" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
+<img align="left" style ="background-color:#F7DF1E" alt="javascript" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img align="left" style ="background-color:#61DAFB" alt="react" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img align="left" style ="background-color:#339933" alt="node-dot-js" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
+<img align="left" style ="background-color:#000000" alt="express" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" />
+<img align="left" style ="background-color:#21759B" alt="wordpress" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />
 
 ### Design tools and platforms
 
-<img style ="color:#FF9A00" alt="adobeillustrator" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeillustrator.svg" />
-<img style ="color:#31A8FF" alt="adobephotoshop" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobephotoshop.svg" />
-<img style ="color:#FF3366" alt="adobeindesign" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeindesign.svg" />
-<img style ="color:#DA1F26" alt="adobecreativecloud" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
-<img style="color:#000000" alt="apple" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
-<img style="color:#003399" alt="windowsxp" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
+<img align="left" style ="background-color:#FF9A00" alt="adobeillustrator" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeillustrator.svg" />
+<img align="left" style ="background-color:#31A8FF" alt="adobephotoshop" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobephotoshop.svg" />
+<img align="left" style ="background-color:#FF3366" alt="adobeindesign" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeindesign.svg" />
+<img align="left" style ="background-color:#DA1F26" alt="adobecreativecloud" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
+<img align="left" style="background-color:#000000" alt="apple" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
+<img align="left" style="background-color:#003399" alt="windowsxp" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
 
 ### Get in touch
 
