@@ -15,20 +15,20 @@ I just finished the Adalab bootcamp and I want to focus on improving my knowledg
 
 ### Languages, tools and platforms
 
-<img align="left" alt="html5" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
-<img align="left" alt="css3" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
-<img align="left" alt="sass" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
-<img align="left" alt="javascript" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
-<img align="left" alt="react" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
-<img align="left" alt="node-dot-js" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
-<img align="left" alt="express" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" />
-<img align="left" alt="wordpress" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />
-<img align="left" alt="adobeillustrator" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeillustrator.svg" />
-<img align="left" alt="adobephotoshop" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobephotoshop.svg" />
-<img align="left" alt="adobeindesign" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeindesign.svg" />
-<img align="left" alt="adobecreativecloud" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
-<img align="left" alt="apple" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
-<img align="left" alt="windowsxp" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
+<img align="left" alt="html5" title="html5" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img align="left" alt="css3" title="css3" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img align="left" alt="sass" title="sass" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
+<img align="left" alt="javascript" title="javascript"height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img align="left" alt="react" title="react" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img align="left" alt="node-dot-js" title="node-dot-js" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
+<img align="left" alt="express" title="express" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" />
+<img align="left" alt="wordpress" title="wordpress" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />
+<img align="left" alt="adobeillustrator" title="adobeillustrator" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeillustrator.svg" />
+<img align="left" alt="adobephotoshop" title="adobephotoshop" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobephotoshop.svg" />
+<img align="left" alt="adobeindesign" title="adobeindesign" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeindesign.svg" />
+<img align="left" alt="adobecreativecloud" title="adobecreativecloud" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
+<img align="left" alt="mac" title="mac" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
+<img align="left" alt="windows xp" alt="windows xp" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
 </br>
 
 ### Get in touch
