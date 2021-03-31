@@ -2,7 +2,7 @@
 
 ## Hola mundo!
 
-Apasionada, perseverante, temperamental, determinada… Me enseñaron a ser curiosa, a tener inquietud, buscar soluciones y poner pasión en todo lo que emprendo, sea a nivel personal o profesional. Actitudes que me completan y definen.
+Apasionada, perseverante, temperamental, determinada… De todos los adjetivos posibles para definirme me quedo dos con los que me etiquetaron hace tiempo y parecen hechos a mi medida: curiosa y preguntona. Me enseñaron a ser curiosa, a tener inquietud, buscar soluciones y poner pasión en todo lo que emprendo, sea a nivel personal o profesional. Actitudes que me completan y definen.
 
 Soy una todoterreno dentro del [diseño gráfico offline](http://www.ana-am.es), busco siempre nuevos retos que me aporten crecimiento y donde poder aportar yo también. El mundo online siempre me atrajo y por eso me decidí a ser front-end developer, por ser un sector en constante evolución, donde seguir aprendiendo y poder colaborar.
 
