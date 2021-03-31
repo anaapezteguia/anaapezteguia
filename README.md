@@ -19,6 +19,24 @@ Acabo de terminar el curso intensivo en Adalab y quiero enfocarme en mejorar mi 
 Si buscas alguien dinámico y trabajador para tu equipo puedes contactarme a través de [@linkedin](https://www.linkedin.com/in/anaapezteguiamartinez/), [@twitter](https://twitter.com/anadisena) o por [email](mailto:hola@ana-am.es).
 <br>
 
+### Lenguajes, herramientas y plataformas / Languages, tools and platforms
+
+<img align="left" alt="html 5" title="html 5" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img align="left" alt="css 3" title="css 3" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img align="left" alt="sass" title="sass" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
+<img align="left" alt="javascript" title="javascript"height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img align="left" alt="react" title="react" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img align="left" alt="node js" title="node js" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
+<img align="left" alt="express" title="express" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" />
+<img align="left" alt="wordpress" title="wordpress" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />
+<img align="left" alt="adobe illustrator" title="adobe illustrator" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeillustrator.svg" />
+<img align="left" alt="adobe photoshop" title="adobe photoshop" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobephotoshop.svg" />
+<img align="left" alt="adobe indesign" title="adobe indesign" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeindesign.svg" />
+<img align="left" alt="adobe creative cloud" title="adobe creative cloud" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
+<img align="left" alt="mac" title="mac" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
+<img align="left" alt="windows xp" title="windows xp" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
+<br>
+
 --
 
 ## Hi everyone!
