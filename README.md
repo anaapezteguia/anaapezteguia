@@ -7,17 +7,17 @@ Apasionada, perseverante, temperamental, determinada… Me enseñaron a ser curi
 Soy una todoterreno dentro del [diseño gráfico offline](http://www.ana-am.es), busco siempre nuevos retos que me aporten crecimiento y donde poder aportar yo también. El mundo online siempre me atrajo y por eso me decidí a ser front-end developer, por ser un sector en constante evolución, donde seguir aprendiendo y poder colaborar.
 
 Busco un trabajo en el que poder crecer profesionalmente, donde se valoren mis conocimientos y experiencia anterior y a la vez seguir aprendiendo cada día en un entorno profesional que me permita avanzar. Me interesa un empleo que valore la conciliación familiar.
-</br></br>
+</br>
 
 ### Lo que quiero hacer
 
 Acabo de terminar el curso intensivo en Adalab y quiero enfocarme en mejorar mi conocimiento de Vanilla JS, testing con Jest, React JS y Redux.
-</br></br>
+</br>
 
 ### Contacta conmigo
 
 Si buscas alguien dinámico y trabajador para tu equipo puedes contactarme a través de [@linkedin](https://www.linkedin.com/in/anaapezteguiamartinez/), [@twitter](https://twitter.com/anadisena) o por [email](mailto:hola@ana-am.es).
-</br></br>
+</br>
 
 ---
 
@@ -28,12 +28,12 @@ Passionate, persevering, temperamental, determined... Of all the possible adject
 I am an all-rounder in [offline graphic design](http://www.ana-am.es), I am always looking for new challenges that bring me growth and where I can also contribute. The online world has always attracted me and that's why I decided to become a front-end developer, because it's a sector in constant evolution, where I can keep learning and collaborating.
 
 I am looking for a job where I can grow professionally, where my knowledge and previous experience are valued and where I can continue learning every day in a professional environment that allows me to advance.
-</br></br>
+</br>
 
 ### What I'm focusing on
 
 I just finished the Adalab bootcamp and I want to focus on improving my knowledge of Vanilla JS, testing with Jest, React JS and Redux.
-</br></br>
+</br>
 
 ### Get in touch
 
@@ -43,7 +43,8 @@ If you're looking for a dynamic, hard-working, person to join your team feel fre
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
 
 </br>
-
+© Ana Apezteguía Martínez.
+</br>
 <img align="left" alt="html 5" title="html 5" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
 <img align="left" alt="css 3" title="css 3" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
 <img align="left" alt="sass" title="sass" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
@@ -58,6 +59,3 @@ If you're looking for a dynamic, hard-working, person to join your team feel fre
 <img align="left" alt="adobe creative cloud" title="adobe creative cloud" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
 <img align="left" alt="mac" title="mac" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
 <img align="left" alt="windows xp" title="windows xp" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
-</br></br></br>
-
-© Ana Apezteguía Martínez.
