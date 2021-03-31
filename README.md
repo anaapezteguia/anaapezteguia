@@ -39,8 +39,10 @@ I just finished the Adalab bootcamp and I want to focus on improving my knowledg
 
 If you're looking for a dynamic, hard-working, person to join your team feel free to contact me [@linkedin](https://www.linkedin.com/in/anaapezteguiamartinez/), [@twitter](https://twitter.com/anadisena) or either by [email](mailto:hola@ana-am.es).
 
-### Languages, tools and platforms
+</br></br></br>
 
+© Ana Apezteguía Martínez.
+</br></br></br>
 <img align="left" alt="html 5" title="html 5" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
 <img align="left" alt="css 3" title="css 3" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
 <img align="left" alt="sass" title="sass" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
@@ -55,8 +57,6 @@ If you're looking for a dynamic, hard-working, person to join your team feel fre
 <img align="left" alt="adobe creative cloud" title="adobe creative cloud" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
 <img align="left" alt="mac" title="mac" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
 <img align="left" alt="windows xp" title="windows xp" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
-</br></br></br>
-
-© Ana Apezteguía Martínez.
+</br>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
