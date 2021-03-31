@@ -29,7 +29,6 @@ I just finished the Adalab bootcamp and I want to focus on improving my knowledg
 <img align="left" alt="adobecreativecloud" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
 <img align="left" alt="apple" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
 <img align="left" alt="windowsxp" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
-* * *
 
 ### Get in touch
 
