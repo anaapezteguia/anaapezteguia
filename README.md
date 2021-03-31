@@ -15,6 +15,7 @@ I just finished the Adalab bootcamp and I want to focus on improving my knowledg
 
 ### Languages, tools and platforms
 
+<div>
 <img align="left" alt="html5" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
 <img align="left" alt="css3" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
 <img align="left" alt="sass" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
@@ -29,8 +30,7 @@ I just finished the Adalab bootcamp and I want to focus on improving my knowledg
 <img align="left" alt="adobecreativecloud" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
 <img align="left" alt="apple" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
 <img align="left" alt="windowsxp" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
-
----
+</div>
 
 ### Get in touch
 
