@@ -8,6 +8,8 @@ Soy una todoterreno dentro del [diseño gráfico offline](http://www.ana-am.es),
 
 Busco un trabajo en el que poder crecer profesionalmente, donde se valoren mis conocimientos y experiencia anterior y a la vez seguir aprendiendo cada día en un entorno profesional que me permita avanzar. Me interesa un empleo que valore la conciliación familiar.
 
+                                   *    *    *
+
 Passionate, persevering, temperamental, determined... Of all the possible adjectives to define me, I have two that I was labelled with some time ago and seem to have been tailor-made for me: curious and inquisitive. I was taught to be curious, to be restless, to look for solutions and to put passion into everything I undertake, whether on a personal or professional level. Attitudes that complete and define me.
 
 I am an all-rounder in [offline graphic design](http://www.ana-am.es), I am always looking for new challenges that bring me growth and where I can also contribute. The online world has always attracted me and that's why I decided to become a front-end developer, because it's a sector in constant evolution, where I can keep learning and collaborating.
