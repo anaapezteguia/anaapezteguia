@@ -56,7 +56,7 @@ If you're looking for a dynamic, hard-working, person to join your team feel fre
 <img align="left" alt="adobe creative cloud" title="adobe creative cloud" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
 <img align="left" alt="mac" title="mac" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
 <img align="left" alt="windows xp" title="windows xp" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
-<br>
+<br><br><br>
 
 © Ana Apezteguía Martínez.
 
