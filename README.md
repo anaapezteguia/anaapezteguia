@@ -13,6 +13,26 @@ I am looking for a job where I can grow professionally, where my knowledge and p
 
 I just finished the Adalab bootcamp and I want to focus on improving my knowledge of Vanilla JS, testing with Jest, React JS and Redux.
 
+### Languages and tools
+
+<img style ="color:#E34F26" alt="html5" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
+<img style ="color:#1572B6" alt="css3" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
+<img style ="color:#CC6699" alt="sass" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/sass.svg" />
+<img style ="color:#F7DF1E" alt="javascript" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+<img style ="color:#61DAFB" alt="react" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img style ="color:#339933" alt="node-dot-js" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/node-dot-js.svg" />
+<img style ="color:#000000" alt="express" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/express.svg" />
+<img style ="color:#21759B" alt="wordpress" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/wordpress.svg" />
+
+### Design tools and platforms
+
+<img style ="color:#FF9A00" alt="adobeillustrator" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeillustrator.svg" />
+<img style ="color:#31A8FF" alt="adobephotoshop" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobephotoshop.svg" />
+<img style ="color:#FF3366" alt="adobeindesign" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobeindesign.svg" />
+<img style ="color:#DA1F26" alt="adobecreativecloud" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
+<img style="color:#000000" alt="apple" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
+<img style="color:#003399" alt="windowsxp" height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
+
 ### Get in touch
 
 If you're looking for a dynamic, hard-working, person to join your team feel free to contact me [@linkedin](https://www.linkedin.com/in/anaapezteguiamartinez/), [@twitter](https://twitter.com/anadisena) or either by [email](mailto:hola@ana-am.es).
