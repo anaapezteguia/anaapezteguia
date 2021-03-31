@@ -8,10 +8,12 @@ I was taught to be curious, to be restless, to look for solutions and to put pas
 I am an all-rounder in [offline graphic design](http://www.ana-am.es), I am always looking for new challenges that bring me growth and where I can also contribute. The online world has always attracted me and that's why I decided to become a front-end developer, because it's a sector in constant evolution, where I can keep learning and collaborating.
 
 I am looking for a job where I can grow professionally, where my knowledge and previous experience are valued and where I can continue learning every day in a professional environment that allows me to advance.
+</br></br>
 
 ### What I'm focusing on
 
 I just finished the Adalab bootcamp and I want to focus on improving my knowledge of Vanilla JS, testing with Jest, React JS and Redux.
+</br></br>
 
 ### Languages, tools and platforms
 
@@ -29,12 +31,12 @@ I just finished the Adalab bootcamp and I want to focus on improving my knowledg
 <img align="left" alt="adobe creative cloud" title="adobe creative cloud" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/adobecreativecloud.svg"/>
 <img align="left" alt="mac" title="mac" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/apple.svg" />
 <img align="left" alt="windows xp" title="windows xp" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windowsxp.svg" />
-</br>
+</br></br></br>
 
 ### Get in touch
 
 If you're looking for a dynamic, hard-working, person to join your team feel free to contact me [@linkedin](https://www.linkedin.com/in/anaapezteguiamartinez/), [@twitter](https://twitter.com/anadisena) or either by [email](mailto:hola@ana-am.es).
-
+</br></br>
 © Ana Apezteguía Martínez.
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
