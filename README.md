@@ -19,7 +19,7 @@ Acabo de terminar el curso intensivo en Adalab y quiero enfocarme en mejorar mi 
 Si buscas alguien dinámico y trabajador para tu equipo puedes contactarme a través de [@linkedin](https://www.linkedin.com/in/anaapezteguiamartinez/), [@twitter](https://twitter.com/anadisena) o por [email](mailto:hola@ana-am.es).
 <br>
 
-### Lenguajes, herramientas y plataformas / Languages, tools and platforms
+### Lenguajes, herramientas y plataformas
 
 <img align="left" alt="html 5" title="html 5" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/html5.svg" />
 <img align="left" alt="css 3" title="css 3" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/css3.svg" />
