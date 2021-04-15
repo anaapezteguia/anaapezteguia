@@ -6,7 +6,7 @@ Apasionada, perseverante, temperamental, determinada… De todos los adjetivos p
 
 Soy una todoterreno dentro del [diseño gráfico offline](http://www.ana-am.es), busco siempre nuevos retos que me aporten crecimiento y donde poder aportar yo también. El mundo online siempre me atrajo y por eso me decidí a ser front-end developer, por ser un sector en constante evolución, donde seguir aprendiendo y poder colaborar.
 
-Busco un trabajo en el que poder crecer profesionalmente, donde se valoren mis conocimientos y experiencia anterior y a la vez seguir aprendiendo cada día en un entorno profesional que me permita avanzar. Me interesa un empleo que valore la conciliación familiar.
+Busco un trabajo en el que poder crecer profesionalmente, donde se valoren mis conocimientos y experiencia anterior y a la vez seguir aprendiendo cada día en un entorno profesional que me permita avanzar.
 <br>
 
 ### Lo que quiero hacer
